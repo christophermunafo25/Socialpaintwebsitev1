@@ -9,6 +9,7 @@ import { PricingPage } from './pages/PricingPage';
 import { WaitlistPage } from './pages/WaitlistPage';
 import { NotFoundPage } from './pages/NotFoundPage';
 
+
 export const router = createBrowserRouter([
   {
     path: '/',
